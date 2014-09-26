@@ -3,8 +3,7 @@ Programming-Assignment-3
 
 Programming Assignment 3: Hospital Quality: Instructions
 
-Programming Assignment 3
-R Programming
+
 Introduction
 Download the le ProgAssignment3-data.zip le containing the data for Programming Assignment 3 from
 the Coursera web site. Unzip the le in a directory that will serve as your working directory. When you
